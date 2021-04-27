@@ -36,3 +36,4 @@ You may go through these guidelines and contribute accordingly:
 * Do not update the [README.md](README.md).
 * Do not push any changes in the main branch. Always make a new branch with the number assosiated with you issue.
 * Refer [Devs-Git-Cheatsheet](https://github.com/Devs-Paradise/Devs-Git-Cheatsheet) in order to learn how to create new branch, fix any error etc.
+* If you are a beginner and have no idea how to contribute to opensource projects then see [Steps-for-beginners](https://github.com/Devs-Paradise/Devs-Machine-Learning-Playground/blob/main/Steps_For_Beginners.md).
