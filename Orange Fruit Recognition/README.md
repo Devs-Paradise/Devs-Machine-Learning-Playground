@@ -1,2 +1,2 @@
 # Orange Fruit Recognition 
-> Detecting whether the fruit shown is Orange or Not Using Image Segmentation |
+> Detecting whether the fruit shown is Orange or Not. This Can be done in many ways like just simply by considering it as a Binary Classification Problem or by using Image Segmentation.
