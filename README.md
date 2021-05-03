@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/57597700/116859731-15d1cf00-ac1e-11eb-9003-539db7508109.jpg" height="300" width="100%"/>
+</p>
+
 # Devs-Machine-Learning-Playground
 > This repository contains different Machine Learning, Deep Learning, and Data Analysis Projects.
 If you worked on some good projects and want to share it with the world, you can do that through us and join our valued sea of contributers. 
