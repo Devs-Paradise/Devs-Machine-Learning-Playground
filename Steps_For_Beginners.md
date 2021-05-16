@@ -15,7 +15,7 @@ fixing any bug, adding new feature to the project, or even adding a whole new pr
 7. commit the changes
 8. Before pushing your changes to the repository make sure you create another branch.
 9. Push your changes to that branch.
-10. Then go to the forked repository and create a pull request from their.
+10. Then go to the forked repository and create a pull request from their and DO NOT forget to link your Pull Request with the issue you created. (Reason for linking the issue with PR is that it's easy for mentors to figureout whose and what work is in the PR.)
 11. Then Wait for the Pull Request to get merged into the main branch by the OWNER.
 
 And After all these steps you have successfully contributed to opensource project.
