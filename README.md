@@ -6,7 +6,7 @@
 > This repository contains different Machine Learning, Deep Learning, and Data Analysis Projects.
 If you worked on some good projects and want to share it with the world, you can do that through us and join our valued sea of contributers. 
 
-> Look how you can contribute here [Contribution Guidelines](#contribution-guidelines-gear) 
+> Look how you can contribute here [Contribution Guidelines](#contribution-guidelines-gear).
 
 # Projects
 
